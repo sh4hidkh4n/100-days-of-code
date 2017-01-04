@@ -8,3 +8,11 @@
 
 **Link to work:** [learning node @ github](https://github.com/shahidkh4n/learning-node)
 
+### Day 2: January, 3 2017
+
+**Today's Progress**: Completed Basic Node. Created an app in Node with Electron.
+
+**Thoughts:** It was amazing. I always wanted to create windows apps. I never knew it was this easy. :D 
+
+**Link to work:** [learning node @ github](https://github.com/shahidkh4n/learning-node)
+
