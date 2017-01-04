@@ -16,3 +16,11 @@
 
 **Link to work:** [learning node @ github](https://github.com/shahidkh4n/learning-node)
 
+### Day 3: January, 4 2017
+
+**Today's Progress**: Coverted previously created Electron app to new Quote App.
+
+**Thoughts:** Definitly Awesome. Feeling great.
+
+**Link to work:** [learning node @ github](https://github.com/shahidkh4n/QuotesOfTheDay-in-electron)
+
