@@ -55,8 +55,26 @@
 
 **Thoughts:** When a website uses so much Javascript its hard to scrap it. But I somehow found the way to do it.
 
-### Day 9: January, 18 2017
+### Day 9: January, 13 2017
+
+**Today's Progress**: Used function.prototype.
+
+**Thoughts:** Javascript is fun.
+
+### Day 10: January, 14 2017
 
 **Today's Progress**: I started angular today
 
 **Thoughts:** It was tought at first but it was awesome experience
+
+### Day 11: January, 15 2017
+
+**Today's Progress**: Deployed [mrkhan.ml](https://mrkhan.ml) on firebase hosting
+
+**Thoughts:** Firebase is new approach to web app.
+
+### Day 12: January, 17 2017
+
+**Today's Progress**: Worked on RecyclerView in Android Studio
+
+**Thoughts:** It was very very tought to understand.
