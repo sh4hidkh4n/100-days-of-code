@@ -54,3 +54,9 @@
 **Today's Progress**: Did some web scraping having Javascript Code.
 
 **Thoughts:** When a website uses so much Javascript its hard to scrap it. But I somehow found the way to do it.
+
+### Day 9: January, 18 2017
+
+**Today's Progress**: I started angular today
+
+**Thoughts:** It was tought at first but it was awesome experience
