@@ -18,5 +18,5 @@
 9. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
 
 ## Note
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to Kallaway [@ka11away](https://twitter.com/ka11away) or Me (https://twitter.com/sh4hidkh4n) on Twitter: 
+* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to Kallaway [@ka11away](https://twitter.com/ka11away) or [Me-@sh4hidkh4n](https://twitter.com/sh4hidkh4n) on Twitter: 
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
