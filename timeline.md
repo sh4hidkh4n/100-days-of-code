@@ -4,7 +4,7 @@ As I am facing hard time organizing stuffs for [#100DaysOfCode](https://twitter.
 
 **Updated:  12th of 100**
 
-**Day**
+**Tasks**
  1. Started #100DaysOfCode
  2. Learn Electron. Install and Setup
  3. Make a simple app in Electron
@@ -18,6 +18,8 @@ As I am facing hard time organizing stuffs for [#100DaysOfCode](https://twitter.
  11. Use firebase database + hosting to create a website
  12. Update RecyclerView
  13. Fix RecyclerView bug and complete navigation drawer.
+ 13a. Build http://bollywoodcraze.in UI
+ 13b. Convert UI to a blogger template
  14. Implement SettingActivity and Feedback Dialog
  15. Fix Some Chapters Bug and Run Speed Benchmarks
  16. Sign Up for Playstore Developer License And Make Intro Videos Etc.

@@ -78,3 +78,13 @@
 **Today's Progress**: Worked on RecyclerView in Android Studio
 
 **Thoughts:** It was very very tought to understand.
+### Day 13: January, 20 2017
+
+**Today's Progress**: Tried fixing my stucked recycler view but it didnt fixed
+
+**Thoughts:** It was tiresome n very frustrating
+### Day 14: January, 20 2017
+
+**Today's Progress**: Added sub tast 13.a Created http://bollywoodcraze.in UI
+
+**Thoughts:** UI development is always been about imagining things n choosing colors etc in which i am really worse

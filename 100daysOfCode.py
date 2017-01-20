@@ -16,7 +16,7 @@ def main():
 			print(lastDayString)
 			logFile.close()
 			import re
-			lastDay = int(re.findall(r'Day [0-9]', lastDayString)[0][-1])
+			lastDay = int(re.findall(r'Day [0-9]{2}', lastDayString)[0].split(" ")[1])
 			currentDay = lastDay+1
 			day = currentDay
 			print("[+] Last Day was %s " % (lastDay))
@@ -56,5 +56,12 @@ def main():
 		exit(0)
 
 if __name__ == "__main__":
+	doc = """#################
+ This is under development. But its pretty usable.
+ I used this on my previous days. So if you find
+ any bug just tweet me @sh4hidkh4n with traceback 
+ log. Thank you!
+#################"""
+	print(doc)
 	while True:
 		main()
