@@ -18,9 +18,9 @@
 9. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
 
 ## Tips for Using [AutoScript](https://github.com/shahidkh4n/100-days-of-code/blob/master/100daysOfCode.py)
-* I dont know why I removed *link to work* from log and then created autoscript so you may want to remove that from you very recent day log. And this will work. I am going to make it work for other default 100DaysOfCode log format soon.
+* I dont know why I removed **link to work** from log and then created autoscript so you may want to remove that from you very recent day log. And this will work. I am going to make it work for other default 100DaysOfCode log format soon.
 * You'll be prompt to commit to git after adding log. Make sure you've installed git for your system.
-* Timeline option won't work if you are using default repository. So Just create a file name *timeline.md* to make it work.
+* Timeline option won't work if you are using default repository. So Just create a file name **timeline.md** to make it work.
 * I might not know if this works for you or not so **let me know** to fix it.
 
 ## Note
