@@ -13,8 +13,8 @@ def initGit():
 
 def main():
 	print("1-%s\n2-%s\n3-%s" % ("Add Log", "Add Timeline", "Exit"))
-	logFileName = "log.md"
-	timelineFileName = "timeline.md"
+	logFileName = "log2.md"
+	timelineFileName = "timeline2.md"
 	option = int(input(">>> "))
 	if option == 1:
 		autoMode = str(input("Auto Detect Last Day?(Y/N)\n>>> ")).lower()
@@ -51,10 +51,10 @@ def main():
 		initGit()
 	elif option == 2:
 		import os
-		if not os.path.isfile("timeline.md"):
+		if not os.path.isfile(timelineFileName):
 			wantToCreateTimeline = str( input("** You dont have timeline.md file. Want to create one?\n>>> ") ).lower()
 			if wantToCreateTimeline != 'n':
-				with open('timeline.md', 'w') as t:
+				with open(timelineFileName, 'w') as t:
 					t.write("Timeline\n========\n\n**Tasks**\n")
 					t.write(" 1. Add all previous days tasks")
 		autoMode = str(input("[-] Auto Detect Last Timeline?(Y/N)\n>>> ")).lower()
