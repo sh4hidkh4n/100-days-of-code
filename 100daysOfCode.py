@@ -13,8 +13,8 @@ def initGit():
 
 def main():
 	print("1-%s\n2-%s\n3-%s" % ("Add Log", "Add Timeline", "Exit"))
-	logFileName = "log2.md"
-	timelineFileName = "timeline2.md"
+	logFileName = "log.md"
+	timelineFileName = "timeline.md"
 	option = int(input(">>> "))
 	if option == 1:
 		autoMode = str(input("Auto Detect Last Day?(Y/N)\n>>> ")).lower()
