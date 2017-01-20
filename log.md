@@ -85,6 +85,6 @@
 **Thoughts:** It was tiresome n very frustrating
 ### Day 14: January, 20 2017
 
-**Today's Progress**: Added sub tast 13.a Created http://bollywoodcraze.in UI
+**Today's Progress**: Added sub tast 13.a Created [BollywoodCraze.in](http://bollywoodcraze.in) UI
 
 **Thoughts:** UI development is always been about imagining things n choosing colors etc in which i am really worse
