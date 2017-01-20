@@ -42,7 +42,7 @@ def main():
 		    call('git status')
 		    call('git add .')
 		    msg = str(input("[-] Commit message\n>>> "))
-		    call('git commit -a -m {}'.format(msg))
+		    call('git commit -a -m "{}"'.format(msg))
 		    wantToPush = True if (str( input("[-] want to push changed to Github?(y/n)\n>>> ") )).lower()!='n' else False
 		    if wantToPush:
 		        call('git push')
