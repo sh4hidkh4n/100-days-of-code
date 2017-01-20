@@ -16,7 +16,7 @@ def main():
 			print(lastDayString)
 			logFile.close()
 			import re
-			lastDay = int(re.findall(r'Day [0-9]{2}', lastDayString)[0].split(" ")[1])
+			lastDay = int(re.findall(r'Day [0-9]{1,3}', lastDayString)[0].split(" ")[1])
 			currentDay = lastDay+1
 			day = currentDay
 			print("[+] Last Day was %s " % (lastDay))
@@ -37,7 +37,7 @@ def main():
 		print("[+] Successful")
 		wantToCommit = str(input("[-] want to commit changes to Github?(y/n)\n>>> "))
 		if wantToCommit.lower() != 'n':
-		    print("*** You must have you github setup already! ***")
+		    print("*** You must have your github setup already! ***")
 		    from subprocess import call
 		    call('git status')
 		    call('git add .')
@@ -47,7 +47,14 @@ def main():
 		    if wantToPush:
 		        call('git push')
 	elif option == 2:
-		autoMode = str(input("Auto Detect Last Timeline?(Y/N)\n>>> ")).lower()
+		import os
+		if not os.path.isfile("timeline.md"):
+			wantToCreateTimeline = str( input("** You dont have timeline.md file. Want to create one?\n>>> ") ).lower()
+			if wantToCreateTimeline != 'n':
+				with open('timeline.md', 'w') as t:
+					t.write("Timeline\n========\n\n**Tasks**\n")
+					t.write(" 1. Add all previous days tasks")
+		autoMode = str(input("[-] Auto Detect Last Timeline?(Y/N)\n>>> ")).lower()
 		if autoMode == 'y':
 			lastTimeLineNumber = ""
 			with open(timelineFileName, "r") as timelineFile:
@@ -57,7 +64,7 @@ def main():
 			currentTimeLineNumber = str(input("[-] Current Time Line Number?\n>>> "))
 		
 		template = """
-	 {timelineNumber}. {timelineDescription}"""
+ {timelineNumber}. {timelineDescription}"""
 		timelineDescription = str(input("[-] Whats this task is all about?\n>>> "))
 		with open(timelineFileName, "a") as timelineFile:
 			timelineFile.write(template.format(timelineNumber=currentTimeLineNumber, timelineDescription=timelineDescription))

@@ -2,7 +2,7 @@ Time Line
 =========
 As I am facing hard time organizing stuffs for [#100DaysOfCode](https://twitter.com/hashtag/100DaysOfCode?src=hash "100DaysOfCode") so I am setting up a timeline for all my upcoming task. Here it goes. To make it more effective I will not set complete timeline for 100 days but the next 4 days. 
 
-**Updated:  12th of 100**
+**Updated:  14th of 100**
 
 **Tasks**
  1. Started #100DaysOfCode
