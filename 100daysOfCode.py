@@ -1,3 +1,16 @@
+def initGit():
+	wantToCommit = str(input("[-] want to commit changes to Github?(y/n)\n>>> "))
+	if wantToCommit.lower() != 'n':
+	    print("*** You must have your github setup already! ***")
+	    from subprocess import call
+	    call('git status')
+	    call('git add .')
+	    msg = str(input("[-] Commit message\n>>> "))
+	    call('git commit -a -m "{}"'.format(msg))
+	    wantToPush = True if (str( input("[-] want to push changed to Github?(y/n)\n>>> ") )).lower()!='n' else False
+	    if wantToPush:
+	        call('git push')
+
 def main():
 	print("1-%s\n2-%s\n3-%s" % ("Add Log", "Add Timeline", "Exit"))
 	logFileName = "log.md"
@@ -35,17 +48,7 @@ def main():
 		with open(logFileName, "a") as log:
 			log.write(template.format(day=day, date=date, progress=progress, thoughts=thoughts))
 		print("[+] Successful")
-		wantToCommit = str(input("[-] want to commit changes to Github?(y/n)\n>>> "))
-		if wantToCommit.lower() != 'n':
-		    print("*** You must have your github setup already! ***")
-		    from subprocess import call
-		    call('git status')
-		    call('git add .')
-		    msg = str(input("[-] Commit message\n>>> "))
-		    call('git commit -a -m "{}"'.format(msg))
-		    wantToPush = True if (str( input("[-] want to push changed to Github?(y/n)\n>>> ") )).lower()!='n' else False
-		    if wantToPush:
-		        call('git push')
+		initGit()
 	elif option == 2:
 		import os
 		if not os.path.isfile("timeline.md"):
@@ -69,6 +72,7 @@ def main():
 		with open(timelineFileName, "a") as timelineFile:
 			timelineFile.write(template.format(timelineNumber=currentTimeLineNumber, timelineDescription=timelineDescription))
 		print("[+] Successful")
+		initGit()
 	elif option == 3:
 		print("<> Any feedback ? Send here @twitter/sh4hidkh4n")
 		exit(0)
