@@ -25,7 +25,7 @@ def main():
 					(@github.com/shahidkh4n)
 				""")
 			logFile = open(logFileName, "r")
-			lastDayString = logFile.readlines()[-5:-4][0]
+			lastDayString = logFile.readlines()[-7:-4][0]
 			print(lastDayString)
 			logFile.close()
 			import re
@@ -40,13 +40,24 @@ def main():
 
 **Today's Progress**: {progress}
 
-**Thoughts:** {thoughts}"""
+**Thoughts:** {thoughts}
+
+**Link to work:** [{link_title}]({link_url})
+"""
 		progress = str(input("[-] Progress (I did something 'X')\n>>> "))
 		thoughts = str(input("[-] Thoughts (What you feel about it?)\n>>> "))
+		link = str(input("[-] Wanna Add Link? (y/n)\n>>> ")).lower()
+		link_url = ""
+		link_title = ""
+		if link != 'n':
+			link_url = str(input("[-] Link Url\n>>> "))
+			link_title = str(input("[-] Link title\n>>> "))
 		import time
 		date = time.strftime("%B, %d %Y")
+		finalTemplate = template.format(day=day, date=date, progress=progress, thoughts=thoughts, link_title=link_title, link_url=link_url)
+		print(finalTemplate)
 		with open(logFileName, "a") as log:
-			log.write(template.format(day=day, date=date, progress=progress, thoughts=thoughts))
+			log.write(finalTemplate)
 		print("[+] Successful")
 		initGit()
 	elif option == 2:
