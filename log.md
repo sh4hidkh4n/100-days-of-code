@@ -93,3 +93,8 @@
 **Today's Progress**: I worked on Firebase database modelling and rule setup. It's not completed yet.
 
 **Thoughts:** Tought task
+### Day 16: January, 23 2017
+
+**Today's Progress**: Worked on SPA. I think I should use any framework. Any good resource on managing history?
+
+**Thoughts:** Single Page Application is a like putting a lot of things in a little box
