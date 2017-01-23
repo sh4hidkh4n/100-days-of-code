@@ -98,3 +98,8 @@
 **Today's Progress**: Worked on SPA. I think I should use any framework. Any good resource on managing history?
 
 **Thoughts:** Single Page Application is a like putting a lot of things in a little box
+### Day 17: January, 23 2017
+
+**Today's Progress**: Exploited API of an app. Wrote Python script to automate app functionality.
+
+**Thoughts:** When we can do things in little time then why waste our precious time?
