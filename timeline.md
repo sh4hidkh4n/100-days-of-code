@@ -19,7 +19,7 @@ As I am facing hard time organizing stuffs for [#100DaysOfCode](https://twitter.
  12. Update RecyclerView
  13. Fix RecyclerView bug and complete navigation drawer.
  13a. Build http://bollywoodcraze.in UI
- 13b. Convert UI to a blogger template
+ 13b. Fix App Navigation
  14. Implement SettingActivity and Feedback Dialog
  15. Fix Some Chapters Bug and Run Speed Benchmarks
  16. Sign Up for Playstore Developer License And Make Intro Videos Etc.
