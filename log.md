@@ -94,16 +94,32 @@
 
 **Thoughts:** Tought task
 
-### Day 16: January, 23 2017
+### Day 16: January, 24 2017
 
 **Today's Progress**: Worked on SPA. I think I should use any framework. Any good resource on managing history?
 
 **Thoughts:** Single Page Application is a like putting a lot of things in a little box
 
-### Day 17: January, 23 2017
+### Day 17: January, 25 2017
 
 **Today's Progress**: Exploited API of an app. Wrote Python script to automate app functionality.
 
 **Thoughts:** When we can do things in little time then why waste our precious time?
 
 **Link to work:** [@github](https://github.com/shahidkh4n)
+
+### Day 18: January, 27 2017
+
+**Today's Progress**: Exploited an app api and automated app fuctionality 
+
+**Thoughts:** I love to do these things. Decompiling code , reading bytecode etc is always awesome!
+
+**Link to work:** [@github](https://github.com/shahidkh4n)
+
+### Day 19: January, 28 2017
+
+**Today's Progress**: Worked on css. 
+
+**Thoughts:** Made UI for todo app.
+
+**Link to work:** [pen@codepen](http://codepen.io/shahidkh4n/pen/wgevgq)
