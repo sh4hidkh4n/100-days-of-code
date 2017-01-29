@@ -107,3 +107,10 @@
 **Thoughts:** When we can do things in little time then why waste our precious time?
 
 **Link to work:** [@github](https://github.com/shahidkh4n)
+### Day 18: January, 30 2017
+
+**Today's Progress**: Messed with UI of previous todo app.
+
+**Thoughts:** I admit I am not so good at designing and picking right colors. Every time i try i pick so kinda hackerish color some dark background with some bright color. 
+
+**Link to work:** [UI@Codepen](http://codepen.io/shahidkh4n/pen/wgevgq)
