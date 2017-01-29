@@ -94,7 +94,7 @@
 
 **Thoughts:** Tought task
 
-### Day 16: January, 23 2017
+### Day 16: January, 22 2017
 
 **Today's Progress**: Worked on SPA. I think I should use any framework. Any good resource on managing history?
 
@@ -107,10 +107,35 @@
 **Thoughts:** When we can do things in little time then why waste our precious time?
 
 **Link to work:** [@github](https://github.com/shahidkh4n)
-### Day 18: January, 30 2017
+
+### Day 17: January, 25 2017
+
+**Today's Progress**: Creating a to do app in Vue.js. It was tough but I got it working. Components is tough to understand.
+
+**Thoughts:** Learning Vue.js by creating an app. Its very very tough but time saving!!!
+
+**Link to work:** [@github](https://github.com/shahidkh4n)
+
+### Day 18: January, 27 2017
+
+**Today's Progress**: created a sharing bot for Twitter Reddit and Facebook in python
+
+**Thoughts:** I love to make bots!!
+
+**Link to work:** [@github](https://github.com/shahidkh4n)
+
+### Day 19: January, 30 2017
 
 **Today's Progress**: Messed with UI of previous todo app.
 
 **Thoughts:** I admit I am not so good at designing and picking right colors. Every time i try i pick so kinda hackerish color some dark background with some bright color. 
 
 **Link to work:** [UI@Codepen](http://codepen.io/shahidkh4n/pen/wgevgq)
+
+### Day 20: January, 30 2017
+
+**Today's Progress**: Worked on previous todo app in #vuejs and #firebase . Two steps more to deploy!!
+
+**Thoughts:** I did it!! I learned more than basics of SPA + Vue! I actually loved this way of learning
+
+**Link to work:** [tweet@twitter](https://twitter.com/sh4hidkh4n/status/825777282992181251)
