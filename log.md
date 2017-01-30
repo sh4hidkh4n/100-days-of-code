@@ -139,3 +139,11 @@
 **Thoughts:** I did it!! I learned more than basics of SPA + Vue! I actually loved this way of learning
 
 **Link to work:** [tweet@twitter](https://twitter.com/sh4hidkh4n/status/825777282992181251)
+
+### Day 21: January, 31 2017
+
+**Today's Progress**: Gave final touch up to my FireTodo App!
+
+**Thoughts:** I finally completed the app. Its nice. 
+
+**Link to work:** [FireTodo@firebaseapp.com](http://tr0nlabs-6f56b.firebaseapp.com/todos)
