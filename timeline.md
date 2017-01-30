@@ -20,11 +20,15 @@ As I am facing hard time organizing stuffs for [#100DaysOfCode](https://twitter.
  13. Fix RecyclerView bug and complete navigation drawer.
  13a. Build http://bollywoodcraze.in UI
  13b. Fix App Navigation
- 14. Implement SettingActivity and Feedback Dialog
- 15. Fix Some Chapters Bug and Run Speed Benchmarks
- 16. Sign Up for Playstore Developer License And Make Intro Videos Etc.
- 17. Finalize App and make it ready for playstore
- 18. advertise and spread all over the world
+ 14. ~~Implement SettingActivity and Feedback Dialog~~
+ 15. ~~Fix Some Chapters Bug and Run Speed Benchmarks~~
+ 16. ~~Sign Up for Playstore Developer License And Make Intro Videos Etc.~~
+ 17. ~~Finalize App and make it ready for playstore~~
+ 18. ~~advertise and spread all over the world~~
+ 14. Try to create a todo app in vue
+ 15. Create a complete working todo app
+ 15a. Thing of database design for mrkhan.ml
+ 16. Make mrkhan.ml as SPA and use firebase for dynamic content
+ 17. Update github profile and add all projects from localhost to git
  19. Finish mrkhan.ml as in thoughts
- 20. Make mrkhan.ml as SPA and use firebase for dynamic content
- 21. Resume Crazycircle.apk 
+ 
