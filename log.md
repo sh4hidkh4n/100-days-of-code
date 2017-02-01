@@ -155,3 +155,11 @@
 **Thoughts:** I really suck at designing
 
 **Link to work:** [#mrkhan.ml](https://mrkhan.ml)
+
+### Day 23: February, 01 2017
+
+**Today's Progress**: Built tribution page to our beloved APJ Kalam
+
+**Thoughts:** It feels good
+
+**Link to work:** [pen@codepen](http://codepen.io/shahidkh4n/full/ggvZVM/)
