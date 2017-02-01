@@ -147,3 +147,11 @@
 **Thoughts:** I finally completed the app. Its nice. 
 
 **Link to work:** [FireTodo@firebaseapp.com](http://tr0nlabs-6f56b.firebaseapp.com/todos)
+
+### Day 22: February, 01 2017
+
+**Today's Progress**: Nothing much today. Learned few animation. Tried designing my blog mrkhan.ml but failed to satisfy myself
+
+**Thoughts:** I really suck at designing
+
+**Link to work:** [#mrkhan.ml](https://mrkhan.ml)
