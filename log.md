@@ -163,3 +163,11 @@
 **Thoughts:** It feels good
 
 **Link to work:** [pen@codepen](http://codepen.io/shahidkh4n/full/ggvZVM/)
+
+### Day 24: February, 03 2017
+
+**Today's Progress**: I worked on my previously created script which automatically shares something on my social network profiles
+
+**Thoughts:** I had to process data. It was very very tiresome. I got frustrated at times but I did it somehow. Its v1 is done. V2 adds more functionality so more complexity. And I created something in css and canvas
+
+**Link to work:** [CanvasImage@CodePen](http://codepen.io/shahidkh4n/pen/pRLmxZ)
