@@ -203,3 +203,11 @@
 **Thoughts:** I was thinking to emulate a browser and automate it. But that wont work in headless env. So I tried to replicate browser request with same session and cookie but that created a whole lot of mess
 
 **Link to work:** [me@twitter](https://twitter.com/sh4hidkh4n)
+
+### Day 29: February, 7, 2017
+
+**Today's Progress**: Did more on social script. Introducing more advanced functionality. And tried to build template for mrkhan.ml 
+
+**Thoughts:** I am never satisfied with any of design i make. I love others work. 
+
+**Link to work:** [me@twitter](https://twitter.com/sh4hidkh4n)
