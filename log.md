@@ -211,3 +211,11 @@
 **Thoughts:** I am never satisfied with any of design i make. I love others work. 
 
 **Link to work:** [me@twitter](https://twitter.com/sh4hidkh4n)
+
+### Day 30: February, 11 2017
+
+**Today's Progress**: Tested couple of Graph API Requests which resulted failure. Wrote Test Oriented Code For First Time
+
+**Thoughts:** Writing test case first then writing actual code take too much time but its easy to debug!
+
+**Link to work:** [me@twitter](https://twitter.com/sh4hidkh4n)
