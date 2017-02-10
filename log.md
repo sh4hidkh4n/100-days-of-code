@@ -179,3 +179,11 @@
 **Thoughts:** Mechanize still doesnt give all we need to scrap. I am thinking to find alternate using node with electron
 
 **Link to work:** []()
+
+### Day 26: February, 5, 2017
+
+**Today's Progress**: Still working on the same social script. Group posting creating problem :(
+
+**Thoughts:** Facebook removed group posting from new API version. Still finding a work arround!
+
+**Link to work:** [Me@Twitter](https://twitter.com/sh4hidkh4n)
