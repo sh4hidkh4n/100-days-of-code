@@ -187,3 +187,11 @@
 **Thoughts:** Facebook removed group posting from new API version. Still finding a work arround!
 
 **Link to work:** [Me@Twitter](https://twitter.com/sh4hidkh4n)
+
+### Day 27: February, 5, 2017
+
+**Today's Progress**: All day went troubleshooting a problem then I came to know I had to use http2 than http1.1 then http2 sucked...
+
+**Thoughts:** Newer http standard http 2.0 is getting popular but there are very few binding available in python such as hyper . Thinking to fork requests and add http 2.0 support 
+
+**Link to work:** [me@twitter](https://twitter.com/sh4hidkh4n)
