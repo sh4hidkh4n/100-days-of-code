@@ -195,3 +195,11 @@
 **Thoughts:** Newer http standard http 2.0 is getting popular but there are very few binding available in python such as hyper . Thinking to fork requests and add http 2.0 support 
 
 **Link to work:** [me@twitter](https://twitter.com/sh4hidkh4n)
+
+### Day 28: February, 6, 2017
+
+**Today's Progress**: Facebook made me cry today. Every post request returned "content not found" even when req was identical as browser
+
+**Thoughts:** I was thinking to emulate a browser and automate it. But that wont work in headless env. So I tried to replicate browser request with same session and cookie but that created a whole lot of mess
+
+**Link to work:** [me@twitter](https://twitter.com/sh4hidkh4n)
