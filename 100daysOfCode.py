@@ -53,7 +53,12 @@ def main():
 			link_url = str(input("[-] Link Url\n>>> "))
 			link_title = str(input("[-] Link title\n>>> "))
 		import time
-		date = time.strftime("%B, %d %Y")
+		wantToInsertDate = str(input("[-] Want to insert custom date?\n>>> ")).lower()
+		if wantToInsertDate != 'n':
+			#January, 27 2017
+			date = str(input("[-] Enter Date (like January, 27 2017)\n>>> "))
+		else:
+			date = time.strftime("%B, %d %Y")
 		finalTemplate = template.format(day=day, date=date, progress=progress, thoughts=thoughts, link_title=link_title, link_url=link_url)
 		print(finalTemplate)
 		with open(logFileName, "a") as log:

@@ -171,3 +171,11 @@
 **Thoughts:** I had to process data. It was very very tiresome. I got frustrated at times but I did it somehow. Its v1 is done. V2 adds more functionality so more complexity. And I created something in css and canvas
 
 **Link to work:** [CanvasImage@CodePen](http://codepen.io/shahidkh4n/pen/pRLmxZ)
+
+### Day 25: February, 4, 2017
+
+**Today's Progress**:  More python more mechanize more data scraping today.. I really love it.
+
+**Thoughts:** Mechanize still doesnt give all we need to scrap. I am thinking to find alternate using node with electron
+
+**Link to work:** []()
