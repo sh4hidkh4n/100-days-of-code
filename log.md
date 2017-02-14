@@ -235,3 +235,11 @@
 **Thoughts:** I thought to build my own personal page but thought its not yet time
 
 **Link to work:** [My Site](https://mrkhan.ml)
+
+### Day 33: February, 14 2017
+
+**Today's Progress**: Intercepted 3rd party website XHR requests and replicated in a chrome extension.
+
+**Thoughts:** It was good. Learnt alot today.
+
+**Link to work:** []()
