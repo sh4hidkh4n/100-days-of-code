@@ -10,7 +10,6 @@ def initGit():
 	    wantToPush = True if (str( input("[-] want to push changed to Github?(y/n)\n>>> ") )).lower()!='n' else False
 	    if wantToPush:
 	        call('git push')
-
 def main():
 	print("1-%s\n2-%s\n3-%s" % ("Add Log", "Add Timeline", "Exit"))
 	logFileName = "log.md"

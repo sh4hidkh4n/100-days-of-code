@@ -219,3 +219,11 @@
 **Thoughts:** Writing test case first then writing actual code take too much time but its easy to debug!
 
 **Link to work:** [me@twitter](https://twitter.com/sh4hidkh4n)
+
+### Day 31: February, 12 2017
+
+**Today's Progress**:  Still trying hard to identify what's getting wrong with my social script..
+
+**Thoughts:** Webscraping seems getting more fun
+
+**Link to work:** [me@twitter](http://twitter.com/sh4hidkh4n)
