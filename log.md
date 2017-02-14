@@ -227,3 +227,11 @@
 **Thoughts:** Webscraping seems getting more fun
 
 **Link to work:** [me@twitter](http://twitter.com/sh4hidkh4n)
+
+### Day 32: February, 13 2017
+
+**Today's Progress**: Messed with parallax. Its awesome.
+
+**Thoughts:** I thought to build my own personal page but thought its not yet time
+
+**Link to work:** [My Site](https://mrkhan.ml)
