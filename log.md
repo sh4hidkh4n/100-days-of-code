@@ -243,3 +243,11 @@
 **Thoughts:** It was good. Learnt alot today.
 
 **Link to work:** []()
+
+### Day 34: February, 16 2017
+
+**Today's Progress**: I learned about build packs what they are and what they do. Basically they are awesome.
+
+**Thoughts:** I really loved the thought of using it. No manual browser refresh / sass compiling etc
+
+**Link to work:** [@ME](https://twitter.com/sh4hidkh4n)
