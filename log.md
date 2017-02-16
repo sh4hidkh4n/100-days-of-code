@@ -251,3 +251,11 @@
 **Thoughts:** I really loved the thought of using it. No manual browser refresh / sass compiling etc
 
 **Link to work:** [@ME](https://twitter.com/sh4hidkh4n)
+
+### Day 35: February, 17 2017
+
+**Today's Progress**: I am building a single page blog using vue js and firebase as database
+
+**Thoughts:** Till now it went nice and awesome
+
+**Link to work:** [@sh4hidkh4n](https://twitter.com/sh4hidkh4n)
