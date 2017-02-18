@@ -259,3 +259,11 @@
 **Thoughts:** Till now it went nice and awesome
 
 **Link to work:** [@sh4hidkh4n](https://twitter.com/sh4hidkh4n)
+
+### Day 36: February, 18 2017
+
+**Today's Progress**: Added option to select image as blog post image in my single page blog application.
+
+**Thoughts:** Updating database structure is good but code is also need to be edited heavily
+
+**Link to work:** [@me](https://twitter.com/sh4hidkh4n)
