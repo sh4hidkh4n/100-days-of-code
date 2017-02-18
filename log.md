@@ -267,3 +267,11 @@
 **Thoughts:** Updating database structure is good but code is also need to be edited heavily
 
 **Link to work:** [@me](https://twitter.com/sh4hidkh4n)
+
+### Day 37: February, 19 2017
+
+**Today's Progress**: Updated the UI of my SPA blog. Learning Some UX things  
+
+**Thoughts:** It was not easy to manage components intercommunication. So I isolated them in a way that they work independently. 
+
+**Link to work:** [Project Demo Link](https://bollywood-craze.firebaseapp.com)
