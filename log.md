@@ -275,3 +275,11 @@
 **Thoughts:** It was not easy to manage components intercommunication. So I isolated them in a way that they work independently. 
 
 **Link to work:** [Project Demo Link](https://bollywood-craze.firebaseapp.com)
+
+### Day 38: February, 20 2017
+
+**Today's Progress**: I tried to add pagination in my previous blog app using vuejs and firebase. But i found firebase has some limitations. So i need to restruct database to support pagination.
+
+**Thoughts:** Well now i need to edit single file and fix it according to the change in db structure
+
+**Link to work:** []()
