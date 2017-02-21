@@ -283,3 +283,11 @@
 **Thoughts:** Well now i need to edit single file and fix it according to the change in db structure
 
 **Link to work:** []()
+
+### Day 39: February, 22 2017
+
+**Today's Progress**: Fixed pagination issue. Restructured database. Listed category and belonging posts
+
+**Thoughts:** I got some ideas while thinking of better design. But I noted that ideas but for now goal is make a working blog with all functionality..
+
+**Link to work:** []()
