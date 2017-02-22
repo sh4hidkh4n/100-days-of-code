@@ -291,3 +291,11 @@
 **Thoughts:** I got some ideas while thinking of better design. But I noted that ideas but for now goal is make a working blog with all functionality..
 
 **Link to work:** []()
+
+### Day 40: February, 23 2017
+
+**Today's Progress**: Finally a basic working blog using VueJs and Firebase. Firebase doesn't have functionality to build search queries. This has to be done is some way that identifiers should be converted into token and fed to a path in db.
+
+**Thoughts:** Well its nice. I am feeling much better. 
+
+**Link to work:** [Bollywood Craze @ FireBase](https://bollywood-craze.firebaseapp.com)
