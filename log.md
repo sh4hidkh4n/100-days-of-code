@@ -339,3 +339,11 @@
 **Thoughts:** When I will find a good node web hosting I will complete it. 
 
 **Link to work:** []()
+
+### Day 46: March, 06 2017
+
+**Today's Progress**: I had no clue what to do now. So I did some research on chrome extension and modified a existing script to post on multiple groups , add all friend req at once, and much more on facebook
+
+**Thoughts:** It was lot easier than doing python. As in this we dont have to replicate browser in python, we was using a browser. I loved this. I'm looking forward to make more chrome extensions
+
+**Link to work:** []()
