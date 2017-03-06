@@ -315,3 +315,11 @@
 **Thoughts:** It was easy 
 
 **Link to work:** [Firebase](https://bollywood-craze.firebaseapp.com)
+
+### Day 43: February, 28 2017
+
+**Today's Progress**: Fixed code flow in vue app. At certain point code stop execution due to breakage in flow. 
+
+**Thoughts:** It was like i was trying search a needle in haystack (PHP Syntaxed)
+
+**Link to work:** []()
