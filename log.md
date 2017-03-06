@@ -307,3 +307,11 @@
 **Thoughts:** It was tiresome journey 
 
 **Link to work:** [App Link](https://bollywood-craze.firebaseapp.com)
+
+### Day 42: February, 25 2017
+
+**Today's Progress**: Deployed Vue app to firebase hosting
+
+**Thoughts:** It was easy 
+
+**Link to work:** [Firebase](**Today's Progress**: Final Touch Up To Vue App [App on Firebase](https://bollywood-craze.firebaseapp.com). Added adsense ads)
