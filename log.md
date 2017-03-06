@@ -316,10 +316,18 @@
 
 **Link to work:** [Firebase](https://bollywood-craze.firebaseapp.com)
 
-### Day 43: February, 28 2017
+### Day 43: February, 27 2017
 
 **Today's Progress**: Fixed code flow in vue app. At certain point code stop execution due to breakage in flow. 
 
 **Thoughts:** It was like i was trying search a needle in haystack (PHP Syntaxed)
+
+**Link to work:** []()
+
+### Day 44: February, 28 2017
+
+**Today's Progress**: I did hell of research on how to make a single page application which use hell of javascript, seo friendly but sadly there is no way except rendering some of vue server side to emit meta tags.
+
+**Thoughts:** This gave me a shock. I worked hard but without SEO a blog or any website is nothing..
 
 **Link to work:** []()
