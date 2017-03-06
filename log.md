@@ -314,4 +314,4 @@
 
 **Thoughts:** It was easy 
 
-**Link to work:** [Firebase](**Today's Progress**: Final Touch Up To Vue App [App on Firebase](https://bollywood-craze.firebaseapp.com). Added adsense ads)
+**Link to work:** [Firebase](https://bollywood-craze.firebaseapp.com)
