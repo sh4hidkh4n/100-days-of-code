@@ -299,3 +299,11 @@
 **Thoughts:** Well its nice. I am feeling much better. 
 
 **Link to work:** [Bollywood Craze @ FireBase](https://bollywood-craze.firebaseapp.com)
+
+### Day 41: February, 24 2017
+
+**Today's Progress**: Final Touch Up To Vue App [App on Firebase](https://bollywood-craze.firebaseapp.com). Added adsense ads
+
+**Thoughts:** It was tiresome journey 
+
+**Link to work:** [App Link](https://bollywood-craze.firebaseapp.com)
