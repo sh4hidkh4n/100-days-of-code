@@ -331,3 +331,11 @@
 **Thoughts:** This gave me a shock. I worked hard but without SEO a blog or any website is nothing..
 
 **Link to work:** []()
+
+### Day 45: March, 1 2017
+
+**Today's Progress**: Finally stopped working on vue app because its now just a hobby project. I tried to make vue+firebase usable but firebase hosting is for hosting static assets not to render server side scripts. So Its waste for now. 
+
+**Thoughts:** When I will find a good node web hosting I will complete it. 
+
+**Link to work:** []()
