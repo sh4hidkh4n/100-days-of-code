@@ -363,3 +363,11 @@
 **Thoughts:** I used twitter streaming api and harvested data on some handle then analysed it. 
 
 **Link to work:** []()
+
+### Day 49: March, 12 2017
+
+**Today's Progress**: Made twitter bot using python + tweepy + heroku
+
+**Thoughts:** I always thought to make it so i made it
+
+**Link to work:** [@_IslamicRT](https://twitter.com/_IslamicRT)
