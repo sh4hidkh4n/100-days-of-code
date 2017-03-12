@@ -355,3 +355,11 @@
 **Thoughts:** Exams sucks!!
 
 **Link to work:** []()
+
+### Day 48: March, 10 2017
+
+**Today's Progress**: learned few stuffs about data analysis, extracting useful data from 100k+ rows of data.
+
+**Thoughts:** I used twitter streaming api and harvested data on some handle then analysed it. 
+
+**Link to work:** []()
