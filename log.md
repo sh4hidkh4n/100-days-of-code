@@ -347,3 +347,11 @@
 **Thoughts:** It was lot easier than doing python. As in this we dont have to replicate browser in python, we was using a browser. I loved this. I'm looking forward to make more chrome extensions
 
 **Link to work:** []()
+
+### Day 47: March, 07 2017
+
+**Today's Progress**:  Learning core of computer #networks  I've exam tomorrow. Kinda revision of whole thing. I not good at handwriting.
+
+**Thoughts:** Exams sucks!!
+
+**Link to work:** []()
