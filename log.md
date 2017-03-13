@@ -371,3 +371,11 @@
 **Thoughts:** I always thought to make it so i made it
 
 **Link to work:** [@_IslamicRT](https://twitter.com/_IslamicRT)
+
+### Day 50: March, 13 2017
+
+**Today's Progress**: Built Random Quote Machine + Local Weather APP on FreeCodeCamp
+
+**Thoughts:** Nice and easy
+
+**Link to work:** [Project On CodePen](http://codepen.io/shahidkh4n)
