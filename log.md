@@ -379,3 +379,19 @@
 **Thoughts:** Nice and easy
 
 **Link to work:** [Project On CodePen](http://codepen.io/shahidkh4n)
+
+### Day 51: March, 15 2017
+
+**Today's Progress**: Trying to use firebase functions to deployy full fledged app using node and express
+
+**Thoughts:** Firebase sucks for every test i need to deplpy and deployment take 2 min
+
+**Link to work:** []()
+
+### Day 52: March, 16 2017
+
+**Today's Progress**: More on firebase + node + express
+
+**Thoughts:** tiresome
+
+**Link to work:** []()
