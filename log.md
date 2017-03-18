@@ -403,3 +403,11 @@
 **Thoughts:** I need to improve my programming solving skills
 
 **Link to work:** [Hacker Rank](https://www.hackerrank.com)
+
+### Day 54: March 18, 2017
+
+**Today's Progress**: Solved Yesterdays Challenge + 1 on Hackerrank. I managed to solve it. Dont know about complexity analysis
+
+**Thoughts:** It feels good
+
+**Link to work:** [Time-Conversion Challenge](https://www.hackerrank.com/challenges/time-conversion)
