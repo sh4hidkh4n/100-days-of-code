@@ -394,7 +394,7 @@
 
 **Thoughts:** tiresome
 
-**Link to work:** []()
+**Link to work:** [Firebase](https://firebase.google.com)
 
 ### Day 53: March, 17, 2017
 
@@ -404,10 +404,10 @@
 
 **Link to work:** [Hacker Rank](https://www.hackerrank.com)
 
-### Day 54: March 18, 2017
+### Day 54: March, 18 2017
 
 **Today's Progress**: Solved Yesterdays Challenge + 1 on Hackerrank. I managed to solve it. Dont know about complexity analysis
 
-**Thoughts:** It feels good
+**Thoughts:** I finally solved. All I needed focus and less distraction
 
-**Link to work:** [Time-Conversion Challenge](https://www.hackerrank.com/challenges/time-conversion)
+**Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)

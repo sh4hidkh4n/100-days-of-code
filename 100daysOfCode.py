@@ -19,10 +19,9 @@ def main():
 		autoMode = str(input("Auto Detect Last Day?(Y/N)\n>>> ")).lower()
 		if autoMode != 'n':
 			print("""
-		[*] Auto mode is only work if you cloned my repo!
-		[*] If not then just make your log.md looks like mine.
-					(@github.com/shahidkh4n)
-				""")
+::: Auto mode is only work if you cloned my repo!
+::: If not then just make your log.md looks like mine.
+:::	(@github.com/shahidkh4n)""")
 			logFile = open(logFileName, "r")
 			lastDayString = logFile.readlines()[-7:-4][0]
 			print(lastDayString)
@@ -51,6 +50,9 @@ def main():
 		if link != 'n':
 			link_url = str(input("[-] Link Url\n>>> "))
 			link_title = str(input("[-] Link title\n>>> "))
+		if len(link_url) == 0 or len(link_title) == 0:
+			link_url = "https://twitter.com/sh4hidkh4n"
+			link_title = "@sh4hidkh4n on twitter"
 		import time
 		wantToInsertDate = str(input("[-] Want to insert custom date?\n>>> ")).lower()
 		if wantToInsertDate != 'n':
@@ -64,6 +66,11 @@ def main():
 			log.write(finalTemplate)
 		print("[+] Successful")
 		initGit()
+		if str(input("[-] Want To Tweet? ") != 'n'):
+			try:
+				import tweet
+			except Exception as e:
+				print("[+] Not Yet Implemented")
 	elif option == 2:
 		import os
 		if not os.path.isfile(timelineFileName):
