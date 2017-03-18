@@ -395,3 +395,11 @@
 **Thoughts:** tiresome
 
 **Link to work:** []()
+
+### Day 53: March, 17, 2017
+
+**Today's Progress**: Tried Solving Algorithm Problem On HackerRank but failed badly
+
+**Thoughts:** I need to improve my programming solving skills
+
+**Link to work:** [Hacker Rank](https://www.hackerrank.com)
