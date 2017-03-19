@@ -411,3 +411,11 @@
 **Thoughts:** I finally solved. All I needed focus and less distraction
 
 **Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)
+
+### Day 55: March, 19 2017
+
+**Today's Progress**: tried to make a download link grabber for a video site but could not find an easy way. There are plenty ways to do so confused
+
+**Thoughts:** I could use phantomJS and run it on a node server and parse the page. I can build scrapper or I can make api request from python
+
+**Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)
