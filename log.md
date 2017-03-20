@@ -419,3 +419,11 @@
 **Thoughts:** I could use phantomJS and run it on a node server and parse the page. I can build scrapper or I can make api request from python
 
 **Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)
+
+### Day 56: March, 20 2017
+
+**Today's Progress**: Worked on image hosting with post image processing to generate thumbs using firebase functions and storage
+
+**Thoughts:** I love firebase
+
+**Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)
