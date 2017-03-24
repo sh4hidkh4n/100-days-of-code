@@ -451,3 +451,11 @@
 **Thoughts:** It was very easy and awesome. Looking forward to make some amazing apps
 
 **Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)
+
+### Day 60: March, 24 2017
+
+**Today's Progress**: designed https://shahidkamal.me  to include it in my CV. I realized there is so many project I did not listed on git
+
+**Thoughts:** CSS 
+
+**Link to work:** [ShahidKamal]( shahidkamal.me)
