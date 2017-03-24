@@ -427,3 +427,11 @@
 **Thoughts:** I love firebase
 
 **Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)
+
+### Day 57: March 21, 2017
+
+**Today's Progress**: Learned few Cipher Algorithm and How to break them. #cryptography . Didn't enjoy much but its in my course. :(
+
+**Thoughts:** Cyptography is my course thing. Its so tough. But need to learn it
+
+**Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)
