@@ -443,3 +443,11 @@
 **Thoughts:** Cordova is awesome
 
 **Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)
+
+### Day 59: March 23
+
+**Today's Progress**: Converted #VueJs todo app (https://tronlabs.cf/todos )  to #android #native app using #cordova. It's awesome. 
+
+**Thoughts:** It was very easy and awesome. Looking forward to make some amazing apps
+
+**Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)

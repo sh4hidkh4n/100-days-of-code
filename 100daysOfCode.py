@@ -66,7 +66,7 @@ def main():
 			log.write(finalTemplate)
 		print("[+] Successful")
 		initGit()
-		if str(input("[-] Want To Tweet? ") != 'n'):
+		if str(input("[-] Want To Tweet: ")) != 'n':
 			try:
 				import tweet
 			except Exception as e:
