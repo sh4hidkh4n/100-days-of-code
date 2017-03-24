@@ -435,3 +435,11 @@
 **Thoughts:** Cyptography is my course thing. Its so tough. But need to learn it
 
 **Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)
+
+### Day 58: March 22, 2017
+
+**Today's Progress**: some #cryptographic more #JavaScript. Setup #Cordova+#VueJS  environment. Will dive in more tomorrow
+
+**Thoughts:** Cordova is awesome
+
+**Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)
