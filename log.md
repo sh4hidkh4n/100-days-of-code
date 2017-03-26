@@ -459,3 +459,11 @@
 **Thoughts:** CSS 
 
 **Link to work:** [ShahidKamal]( shahidkamal.me)
+
+### Day 61: March, 26 2017
+
+**Today's Progress**: Some design fix for my website [shahidkamal.me](shahidkamal.me)
+
+**Thoughts:** Designing is hard
+
+**Link to work:** [World Of Computers](shahidkamal.me)
