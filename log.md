@@ -467,3 +467,11 @@
 **Thoughts:** Designing is hard
 
 **Link to work:** [World Of Computers](shahidkamal.me)
+
+### Day 62: March, 27, 2017
+
+**Today's Progress**: I practice some algorithms and solved 
+
+**Thoughts:** some riddlesalgorithm designing i awesome when you can do it. Some time it could way too frustrating
+
+**Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)
