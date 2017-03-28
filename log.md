@@ -475,3 +475,11 @@
 **Thoughts:** some riddlesalgorithm designing i awesome when you can do it. Some time it could way too frustrating
 
 **Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)
+
+### Day 63: March, 28 2017
+
+**Today's Progress**: Learned few more algorithms today. Fixed social links issue with [shahidkamal.me](shahidkamal.me)
+
+**Thoughts:** Algorithms tiresome..
+
+**Link to work:** [Shahid Kamal](shahidkamal.me)
