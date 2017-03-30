@@ -483,3 +483,11 @@
 **Thoughts:** Algorithms tiresome..
 
 **Link to work:** [Shahid Kamal](shahidkamal.me)
+
+### Day 64: March, 30 2017
+
+**Today's Progress**: Setup new environment on Ubuntu 16.04
+
+**Thoughts:** Almost end up wiping all data but fortunately there was revert button
+
+**Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)
