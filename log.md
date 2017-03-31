@@ -491,3 +491,11 @@
 **Thoughts:** Almost end up wiping all data but fortunately there was revert button
 
 **Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)
+
+### Day 65: March 31, 2017
+
+**Today's Progress**: Day 1 of #30Days30Sites. Made a portfolio. Setup webpack with BrowserSync and SASS loader
+
+**Thoughts:** Webpack is sometime frustrating.. I didnt uunderstand correctly
+
+**Link to work:** [Day-1 Portfolio #30Days30Sites](https://github.com/shahidkh4n/30Days-30Sites/tree/master/Day1-PortFolio)
