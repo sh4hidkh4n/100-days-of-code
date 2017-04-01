@@ -491,3 +491,11 @@
 **Thoughts:** Almost end up wiping all data but fortunately there was revert button
 
 **Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)
+
+### Day 65: April, 01 2017
+
+**Today's Progress**: Did Day2 challenge on #30Days30Sites. I am getting better in CSS
+
+**Thoughts:** It was nice though
+
+**Link to work:** [Day2 Of #30Days30Sites](https://shahidkh4n.github.io/30Days-30Sites/Day2-Events)
