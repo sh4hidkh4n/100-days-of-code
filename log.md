@@ -492,15 +492,6 @@
 
 **Link to work:** [@sh4hidkh4n on twitter](https://twitter.com/sh4hidkh4n)
 
-<<<<<<< HEAD
-### Day 65: April, 01 2017
-
-**Today's Progress**: Did Day2 challenge on #30Days30Sites. I am getting better in CSS
-
-**Thoughts:** It was nice though
-
-**Link to work:** [Day2 Of #30Days30Sites](https://shahidkh4n.github.io/30Days-30Sites/Day2-Events)
-=======
 ### Day 65: March 31, 2017
 
 **Today's Progress**: Day 1 of #30Days30Sites. Made a portfolio. Setup webpack with BrowserSync and SASS loader
@@ -508,4 +499,11 @@
 **Thoughts:** Webpack is sometime frustrating.. I didnt uunderstand correctly
 
 **Link to work:** [Day-1 Portfolio #30Days30Sites](https://github.com/shahidkh4n/30Days-30Sites/tree/master/Day1-PortFolio)
->>>>>>> 286b769b849298fa8fb470292fe4630af91de86d
+
+### Day 65: April, 01 2017
+
+**Today's Progress**: Did Day2 challenge on #30Days30Sites. I am getting better in CSS
+
+**Thoughts:** It was nice though
+
+**Link to work:** [Day2 Of #30Days30Sites](https://shahidkh4n.github.io/30Days-30Sites/Day2-Events)
