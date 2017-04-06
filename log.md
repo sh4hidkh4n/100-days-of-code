@@ -522,3 +522,11 @@
 **Thoughts:** Followed basic algorithm lectures to optimise. But in case of python when built-in functions used we don't know if how that are coded
 
 **Link to work:** [@_30Days30Sites Bot](https://twitter.com/_30days30sites)
+
+### Day 68: April, 5, 2017
+
+**Today's Progress**: Added #nosql db using #tinydb module in python. Thinking to run some analysis on these handles #100DaysOfCode #30Days30Sites
+
+**Thoughts:** Running analysis will require some data analyst knowledge otherwise the code would be so ugly
+
+**Link to work:** [@_30Days30Sites](https://twitter.com/_30days30sites)
