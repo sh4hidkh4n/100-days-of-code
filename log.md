@@ -530,3 +530,11 @@
 **Thoughts:** Running analysis will require some data analyst knowledge otherwise the code would be so ugly
 
 **Link to work:** [@_30Days30Sites](https://twitter.com/_30days30sites)
+
+### Day 69: April, 06 2017
+
+**Today's Progress**: Reviewed new python3.6 documentation. Learned few things
+
+**Thoughts:** Reading documentation is always boring stuffs
+
+**Link to work:** [Input And Output: Python 3.6 Docs](https://docs.python.org/3.6/tutorial/inputoutput.html)
