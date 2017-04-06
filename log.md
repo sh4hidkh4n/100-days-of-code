@@ -507,3 +507,10 @@
 **Thoughts:** It was nice though
 
 **Link to work:** [Day2 Of #30Days30Sites](https://shahidkh4n.github.io/30Days-30Sites/Day2-Events)
+### Day 66: April, 1, 2017
+
+**Today's Progress**: I used gulp task runner instead of webpack. I didnt need to bundle anything just needed to run some task one by one automatically
+
+**Thoughts:** Gulp is very easy but Webpack on other hand is so confusing
+
+**Link to work:** [30Days30Sites Portfolio](https://t.co/KJAVv50V9N)
