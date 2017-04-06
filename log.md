@@ -514,3 +514,11 @@
 **Thoughts:** Gulp is very easy but Webpack on other hand is so confusing
 
 **Link to work:** [30Days30Sites Portfolio](https://t.co/KJAVv50V9N)
+
+### Day 67: April, 4, 2017
+
+**Today's Progress**: I made some improvement in Twitter bot using Tweepy + heroku. I added some more filters and optimised some efficiency
+
+**Thoughts:** Followed basic algorithm lectures to optimise. But in case of python when built-in functions used we don't know if how that are coded
+
+**Link to work:** [@_30Days30Sites Bot](https://twitter.com/_30days30sites)
