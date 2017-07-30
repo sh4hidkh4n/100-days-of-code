@@ -12,7 +12,7 @@ def initGit():
 	        call('git push')
 def main():
 	print("1-%s\n2-%s\n3-%s" % ("Add Log", "Add Timeline", "Exit"))
-	logFileName = "log.md"
+	logFileName = "log.69.md"
 	timelineFileName = "timeline.md"
 	option = int(input(">>> "))
 	if option == 1:
@@ -32,7 +32,7 @@ def main():
 			day = currentDay
 			print("[+] Last Day was %s " % (lastDay))
 		else:
-			day = str(input("[-] Current Day (ex. 5)\n>>> "))	
+			day = str(input("[-] Current Day (ex. 5)\n>>> "))
 		template = """
 ### Day {day}: {date}
 
@@ -66,11 +66,6 @@ def main():
 			log.write(finalTemplate)
 		print("[+] Successful")
 		initGit()
-		if str(input("[-] Want To Tweet: ")) != 'n':
-			try:
-				import tweet
-			except Exception as e:
-				print("[+] Not Yet Implemented")
 	elif option == 2:
 		import os
 		if not os.path.isfile(timelineFileName):
@@ -87,7 +82,7 @@ def main():
 			currentTimeLineNumber = lastTimeLineNumber+1
 		else:
 			currentTimeLineNumber = str(input("[-] Current Time Line Number?\n>>> "))
-		
+
 		template = """
  {timelineNumber}. {timelineDescription}"""
 		timelineDescription = str(input("[-] Whats this task is all about?\n>>> "))
@@ -103,7 +98,7 @@ if __name__ == "__main__":
 	doc = """#################
     This is under development. But its pretty usable.
     I used this on my previous days. So if you find
-    any bug just tweet me @sh4hidkh4n with traceback 
+    any bug just tweet me @sh4hidkh4n with traceback
     log. Thank you!
 #################"""
 	print(doc)
